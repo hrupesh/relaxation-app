@@ -1,5 +1,8 @@
 body {
-  background: chartreuse;
+  background: url("https://picsum.photos/2400");
+  background-size: "cover";
+  background-position: "center";
+  background-repeat: "no-repeat";
   box-sizing: border-box;
   color: #fff;
   min-height: 100vh;
